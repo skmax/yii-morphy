@@ -1,0 +1,6 @@
+{
+	"name": "skmax/yii-phpmorphy",
+	"type": "yii-extension",
+	"keywords": ["phpMorphy", "morphological analyzer", "yii-extension", "yii", "yii-1.x"],
+	"description": "PHPMorphy - morphological analyzer."
+}
